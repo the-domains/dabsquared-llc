@@ -1,0 +1,28 @@
+name: 'DABSquared, llc.'
+favicon: null
+layout_spectrum: 0.5035751096438617
+typography_spectrum: 0.8927466161549091
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.2875458241906017
+  lightness: 0.4055983033031225
+  saturation: 0.49699909635819495
+  rhythmicContrast: 0.6847941300366074
+purpose: []
